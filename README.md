@@ -1,38 +1,96 @@
-# Hi there, I'm Pedro! 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3E6&width=435&lines=Full+Stack+Developer;3D+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
-
-## 🚀 Featured Repositories
-
 <div align="center">
 
-### 🎮 3D Portfolio
-[![3D Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portfolio_3D&theme=react&show_owner=true)](https://github.com/Pedro6Stein/Portfolio_3D)
+<!-- Animação de entrada -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
   
-### ⚡ E-Commerce Full Stack
-[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=react&show_owner=true)](https://github.com/Pedro6Stein/Full-Stack-E-commerce)
+  .header {
+    animation: float 3s ease-in-out infinite;
+    margin-bottom: 40px;
+  }
+  
+  .repo-card {
+    transition: transform 0.3s ease;
+    border: 1px solid #30363d;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px;
+    background: #0d1117;
+  }
+  
+  .repo-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px #238636;
+  }
+  
+  .tech-badge {
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+</style>
 
+# 🚀 Pedro Stein 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3E6&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+
+## 🌟 Projetos Destacados
+
+<div class="repo-card">
+  <h2>🎮 Portfólio 3D</h2>
+  <a href="https://github.com/Pedro6Stein/Portifolio_3D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical">
+  </a>
+  <div class="tech-badge" style="background: #f0db4f; color: black;">JavaScript</div>
 </div>
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-## 📈 GitHub Stats
-<div align="center">
-  
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro6Stein&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6Stein&layout=compact&theme=radical)
-
+<div class="repo-card">
+  <h2>🛡 StopBully</h2>
+  <a href="https://github.com/Pedro6Stein/StopBully">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=StopBully&theme=radical">
+  </a>
+  <div class="tech-badge" style="background: #178600; color: white;">C#</div>
 </div>
 
-## 🌟 Recent Contributions
-```{r echo=FALSE}
-# Customize these emojis for your contribution chart
-contribution_emojis <- c("⚡", "🔥", "💡", "🚀", "🌱")
-cat(paste(sample(contribution_emojis, 95, replace = TRUE), collapse = ""))
+<div class="repo-card">
+  <h2>🔌 Circuitos com React</h2>
+  <a href="https://github.com/Pedro6Stein/CircuitosComReact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=CircuitosComReact&theme=radical">
+  </a>
+  <div class="tech-badge" style="background: #f0db4f; color: black;">JavaScript</div>
+  <div class="tech-badge" style="background: #2965f1; color: white;">CSS</div>
+</div>
+
+<div class="repo-card">
+  <h2>🛒 E-Commerce Full Stack</h2>
+  <a href="https://github.com/Pedro6Stein/Full-Stack-E-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=radical">
+  </a>
+  <div class="tech-badge" style="background: #3178c6; color: white;">TypeScript</div>
+  <div class="tech-badge" style="background: #6DB33F; color: white;">Spring</div>
+</div>
+
+## 📊 Estatísticas
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro6Stein&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6Stein&layout=compact&theme=radical">
+</div>
+
+## 🐍 Contribuições
+![Snake animation](https://github.com/Pedro6Stein/Pedro6Stein/blob/output/github-contribution-grid-snake.svg)
+
+## 🛠 Tecnologias
+<div style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript">
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=openjdk">
+  <img src="https://img.shields.io/badge/Python-3-blue?logo=python">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.0-green?logo=spring">
+  <img src="https://img.shields.io/badge/React-18-cyan?logo=react">
+</div>
+
+</div>
