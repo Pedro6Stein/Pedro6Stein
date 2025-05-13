@@ -1,40 +1,5 @@
 <div align="center">
 
-<!-- Animação de entrada -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  .header {
-    animation: float 3s ease-in-out infinite;
-    margin-bottom: 40px;
-  }
-  
-  .repo-card {
-    transition: transform 0.3s ease;
-    border: 1px solid #30363d;
-    border-radius: 15px;
-    padding: 20px;
-    margin: 15px;
-    background: #0d1117;
-  }
-  
-  .repo-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 15px #238636;
-  }
-  
-  .tech-badge {
-    margin: 5px;
-    padding: 8px 15px;
-    border-radius: 20px;
-    display: inline-block;
-  }
-</style>
-
 # 🚀 Pedro Stein 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3E6&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
