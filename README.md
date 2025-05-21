@@ -23,6 +23,23 @@
 </div>
 
 <div class="repo-card">
+  <h2>📅 FatecHorarioApp</h2>
+  <a href="https://github.com/Pedro6Stein/FatecHorarioApp">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=FatecHorarioApp&theme=radical&cache_seconds=300"
+      alt="FatecHorarioApp"
+    />
+  </a>
+  <div style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/Expo-53.0.9-4CAF50?logo=expo&cache_seconds=300" alt="Expo" />
+    <img src="https://img.shields.io/badge/React%20Native-0.79.2-61DAFB?logo=react&cache_seconds=300" alt="React Native" />
+    <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&cache_seconds=300" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/NativeWind-F7DF1E?logo=tailwind-css&cache_seconds=300" alt="NativeWind" />
+    <img src="https://img.shields.io/badge/Reanimated-3.17.4-000000?logo=react&cache_seconds=300" alt="Reanimated" />
+  </div>
+</div>
+
+<div class="repo-card">
   <h2>🛡 StopBully</h2>
   <a href="https://github.com/Pedro6Stein/StopBully">
     <img
