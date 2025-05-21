@@ -1,110 +1,145 @@
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Pedro Stein!
 
-# 🚀 Pedro Stein  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3E6&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=5400&pause=1000&color=F7E871&center=true&width=435&lines=Transformando+desafio+em+solu%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-## 🌟 Projetos Destacados
-<div class="repo-card">
-  <h2>🎮 Portfólio 3D</h2>
-  <a href="https://github.com/Pedro6Stein/Portifolio_3D">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical&cache_seconds=360"
-  alt="Pedro6Stein/Portifolio_3D"
-/>
+[![LinkedIn](https://img.shields.io/badge/-CONECTE--SE-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-stein-2b5433213)
+[![Email](https://img.shields.io/badge/-EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zodtewill@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-PORTFÓLIO-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro6Stein)
 
-  </a>
-  <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&cache_seconds=300" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&cache_seconds=300" alt="React 19" />
-    <img src="https://img.shields.io/badge/Three.js-0.173.0-000000?logo=three.js&cache_seconds=300" alt="Three.js 0.173.0" />
-    <img src="https://img.shields.io/badge/Vite-6.2.0-FFCB2B?logo=vite&cache_seconds=300" alt="Vite 6.2.0" />
-    <img src="https://img.shields.io/badge/TailwindCSS-3.4.17-38B2AC?logo=tailwind-css&cache_seconds=300" alt="Tailwind CSS 3.4.17" />
-    <img src="https://img.shields.io/badge/GSAP-3.12.7-88ce02?logo=greensock&cache_seconds=300" alt="GSAP 3.12.7" />
-    <img src="https://img.shields.io/badge/EmailJS-4.4.1-FF4088?logo=mailchimp&cache_seconds=300" alt="EmailJS 4.4.1" />
-    <img src="https://img.shields.io/badge/React–Three–Fiber-9.0.4-61DAFB?logo=react&cache_seconds=300" alt="React-Three-Fiber 9.0.4" />
-    <img src="https://img.shields.io/badge/Drei-10.0.3-000000?cache_seconds=300" alt="Drei 10.0.3" />
-    <img src="https://img.shields.io/badge/Maath-0.10.8-000000?cache_seconds=300" alt="Maath 0.10.8" />
-    <img src="https://img.shields.io/badge/Leva-0.10.0-000000?cache_seconds=300" alt="Leva 0.10.0" />
-    <img src="https://img.shields.io/badge/React–Globe.GL-2.33.2-000000?cache_seconds=300" alt="React-Globe.GL 2.33.2" />
-  </div>
 </div>
 
-<div class="repo-card">
-  <h2>📅 FatecHorarioApp</h2>
-  <a href="https://github.com/Pedro6Stein/FatecHorarioApp">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=FatecHorarioApp&theme=radical&cache_seconds=300"
-      alt="FatecHorarioApp"
-    />
-  </a>
-  <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/Expo-53.0.9-4CAF50?logo=expo&cache_seconds=300" alt="Expo" />
-    <img src="https://img.shields.io/badge/React%20Native-0.79.2-61DAFB?logo=react&cache_seconds=300" alt="React Native" />
-    <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&cache_seconds=300" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/NativeWind-F7DF1E?logo=tailwind-css&cache_seconds=300" alt="NativeWind" />
-    <img src="https://img.shields.io/badge/Reanimated-3.17.4-000000?logo=react&cache_seconds=300" alt="Reanimated" />
-  </div>
+---
+
+## 🛠️ Minhas Habilidades Técnicas
+
+<div align="center">
+
+### 🔮 Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 </div>
 
-<div class="repo-card">
-  <h2>🛡 StopBully</h2>
-  <a href="https://github.com/Pedro6Stein/StopBully">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=StopBully&theme=radical&cache_seconds=300"
-      alt="StopBully"
-    />
-  </a>
-  <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&cache_seconds=300" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&cache_seconds=300" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&cache_seconds=300" alt="SCSS" />
-    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&cache_seconds=300" alt="JavaScript" />
-  </div>
+---
+
+## 🚀 Meus Projetos Destacados
+
+<div align="center">
+
+### 🎮 [Portfólio 3D Interativo](https://github.com/Pedro6Stein/Portifolio_3D)
+[![Portfolio 3D Preview](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical&show_owner=true)](https://github.com/Pedro6Stein/Portifolio_3D)
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Three.js-0.173.0-000000?logo=three.js" alt="Three.js">
+  <img src="https://img.shields.io/badge/GSAP-3.12.7-88ce02?logo=greensock" alt="GSAP">
+</div>
+<p>Portfólio imersivo com experiências 3D interativas e animações fluidas</p>
+
+---
+
+### 📱 [FatecHorarioApp](https://github.com/Pedro6Stein/FatecHorarioApp)
+[![FatecHorarioApp Preview](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=FatecHorarioApp&theme=radical&show_owner=true)](https://github.com/Pedro6Stein/FatecHorarioApp)
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React_Native-0.79.2-61DAFB?logo=react" alt="React Native">
+  <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Expo-53.0.9-4CAF50?logo=expo" alt="Expo">
+</div>
+<p>Aplicativo para gerenciamento de horários acadêmicos com interface intuitiva</p>
+
+---
+
+### 🛒 [E-Commerce Full Stack](https://github.com/Pedro6Stein/Full-Stack-E-commerce)
+[![E-Commerce Preview](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=radical&show_owner=true)](https://github.com/Pedro6Stein/Full-Stack-E-commerce)
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Angular-16-DD0031?logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.1.5-6DB33F?logo=spring" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql" alt="PostgreSQL">
+</div>
+<p>Plataforma completa de e-commerce com arquitetura microservices</p>
+
+---
+
+### 🛡️ [StopBully](https://github.com/Pedro6Stein/StopBully)
+[![StopBully Preview](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=StopBully&theme=radical&show_owner=true)](https://github.com/Pedro6Stein/StopBully)
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript" alt="JavaScript">
+</div>
+<p>Plataforma de conscientização contra bullying com recursos interativos</p>
+
+---
+
+### 🔌 [Circuitos com React](https://github.com/Pedro6Stein/CircuitosComReact)
+[![Circuitos Preview](https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=CircuitosComReact&theme=radical&show_owner=true)](https://github.com/Pedro6Stein/CircuitosComReact)
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Vite-FFCB2B?logo=vite" alt="Vite">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript" alt="JavaScript">
+</div>
+<p>Simulador interativo de circuitos elétricos desenvolvido em React</p>
+
 </div>
 
-<div class="repo-card">
-  <h2>🔌 Circuitos com React</h2>
-  <a href="https://github.com/Pedro6Stein/CircuitosComReact">
-     <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=CircuitosComReact&theme=radical&cache_seconds=300&desc=Simulador%20de%20circuitos%20el%C3%A9tricos%20em%20React%20%2B%20Vite"
-    alt="CircuitosComReact"
-  />
-  </a>
-  <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&cache_seconds=300" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&cache_seconds=300" alt="React" />
-    <img src="https://img.shields.io/badge/Vite-FFCB2B?logo=vite&cache_seconds=300" alt="Vite" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&cache_seconds=300" alt="CSS" />
-  </div>
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Pedro6Stein&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6Stein&layout=compact&theme=radical&bg_color=0d1117&hide_border=true)
+
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Pedro6Stein&theme=radical&background=0d1117&hide_border=true)
+
 </div>
 
-<div class="repo-card">
-  <h2>🛒 E-Commerce Full Stack</h2>
-  <a href="https://github.com/Pedro6Stein/Full-Stack-E-commerce">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=radical&cache_seconds=300"
-      alt="Full-Stack-E-commerce"
-    />
-  </a>
-  <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&cache_seconds=300" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Angular-DB001B?logo=angular&cache_seconds=300" alt="Angular" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&cache_seconds=300" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&cache_seconds=300" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&cache_seconds=300" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/DaisyUI-F59E0B?logo=daisyui&cache_seconds=300" alt="DaisyUI" />
-  </div>
+---
+
+## 🏆 Minhas Conquistas
+
+<div align="center">
+
+![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=Pedro6Stein&theme=radical&margin-w=15&no-frame=true&row=2&column=4)
+
 </div>
 
-## 📊 Estatísticas
+---
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro6Stein&show_icons=true&theme=radical&cache_seconds=300" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6Stein&layout=compact&theme=radical&cache_seconds=300" alt="Top Languages" />
-</div>
+<div align="center">
 
-## 🐍 Contribuições
+## 🤝 Vamos Trabalhar Juntos!
 
-![Snake animation](https://raw.githubusercontent.com/Pedro6Stein/Pedro6Stein/output/github-contribution-grid-snake.svg)
+Estou sempre aberto a colaborações e novas oportunidades. Vamos criar algo incrível!
+
+📧 **Email:** [zodtewill@gmail.com](mailto:zodtewill@gmail.com)  
+🔗 **LinkedIn:** [Pedro Stein](https://www.linkedin.com/in/pedro-stein-2b5433213)
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=Pedro6Stein&color=blueviolet&style=flat-square)
+
+⭐️ Por [Pedro Stein](https://github.com/Pedro6Stein)
 
 </div>
