@@ -8,7 +8,7 @@
 <div class="repo-card">
   <h2>🎮 Portfólio 3D</h2>
   <a href="https://github.com/Pedro6Stein/Portifolio_3D">
-    
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical" alt="Portifolio_3D" />  
   </a>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
