@@ -18,7 +18,7 @@
   <a href="https://github.com/Pedro6Stein/StopBully">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=StopBully&theme=radical">
   </a>
-  <div class="tech-badge" style="background: #178600; color: white;">C#</div>
+  <div class="tech-badge" style="background: #178600; color: white;">JavaScript | HTML | CSS | </div>
 </div>
 
 <div class="repo-card">
