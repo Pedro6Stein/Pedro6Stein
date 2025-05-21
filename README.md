@@ -4,21 +4,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3E6&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 🌟 Projetos Destacados
-
 <div class="repo-card">
   <h2>🎮 Portfólio 3D</h2>
   <a href="https://github.com/Pedro6Stein/Portifolio_3D">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical"
-      alt="Portifolio_3D"
-    />
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical&cache_seconds=360"
+  alt="Pedro6Stein/Portifolio_3D"
+/>
+
   </a>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&cache_seconds=300" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&cache_seconds=300" alt="React" />
-    <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&cache_seconds=300" alt="Three.js" />
-    <img src="https://img.shields.io/badge/Vite-FFCB2B?logo=vite&cache_seconds=300" alt="Vite" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&cache_seconds=300" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&cache_seconds=300" alt="React 19" />
+    <img src="https://img.shields.io/badge/Three.js-0.173.0-000000?logo=three.js&cache_seconds=300" alt="Three.js 0.173.0" />
+    <img src="https://img.shields.io/badge/Vite-6.2.0-FFCB2B?logo=vite&cache_seconds=300" alt="Vite 6.2.0" />
+    <img src="https://img.shields.io/badge/TailwindCSS-3.4.17-38B2AC?logo=tailwind-css&cache_seconds=300" alt="Tailwind CSS 3.4.17" />
+    <img src="https://img.shields.io/badge/GSAP-3.12.7-88ce02?logo=greensock&cache_seconds=300" alt="GSAP 3.12.7" />
+    <img src="https://img.shields.io/badge/EmailJS-4.4.1-FF4088?logo=mailchimp&cache_seconds=300" alt="EmailJS 4.4.1" />
+    <img src="https://img.shields.io/badge/React–Three–Fiber-9.0.4-61DAFB?logo=react&cache_seconds=300" alt="React-Three-Fiber 9.0.4" />
+    <img src="https://img.shields.io/badge/Drei-10.0.3-000000?cache_seconds=300" alt="Drei 10.0.3" />
+    <img src="https://img.shields.io/badge/Maath-0.10.8-000000?cache_seconds=300" alt="Maath 0.10.8" />
+    <img src="https://img.shields.io/badge/Leva-0.10.0-000000?cache_seconds=300" alt="Leva 0.10.0" />
+    <img src="https://img.shields.io/badge/React–Globe.GL-2.33.2-000000?cache_seconds=300" alt="React-Globe.GL 2.33.2" />
   </div>
 </div>
 
