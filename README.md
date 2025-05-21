@@ -48,17 +48,58 @@
 <div class="repo-card">
   <h2>🛒 E-Commerce Full Stack</h2>
   <a href="https://github.com/Pedro6Stein/Full-Stack-E-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=radical" alt="Full-Stack-E-commerce" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Full-Stack-E-commerce&theme=radical"
+      alt="Full-Stack-E-commerce"
+    />
   </a>
   <div style="margin-top: 8px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Angular-DB001B?logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/DaisyUI-F59E0B?logo=daisyui&logoColor=white" alt="DaisyUI" />
+    <img
+      src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"
+      alt="TypeScript"
+    />
+    <img
+      src="https://img.shields.io/badge/Angular-DB001B?logo=angular&logoColor=white"
+      alt="Angular"
+    />
+    <img
+      src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white"
+      alt="Spring Boot"
+    />
+    <img
+      src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"
+      alt="PostgreSQL"
+    />
+    <img
+      src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"
+      alt="Tailwind CSS"
+    />
+    <img
+      src="https://img.shields.io/badge/DaisyUI-F59E0B?logo=daisyui&logoColor=white"
+      alt="DaisyUI"
+    />
   </div>
+
+  <!-- ✨ Agora adicionamos um resumo e link pro README real -->
+  <details style="margin-top:8px;">
+    <summary><strong>Resumo e link do README → </strong></summary>
+    
+**Status:** Em desenvolvimento  
+**Descrição breve:**  
+Repositório com backend em Spring Boot 3, frontend em Angular 18, estilização com Tailwind CSS + DaisyUI, banco PostgreSQL e autenticação Kinde.  
+> Consulte o README completo para rodar localmente, ver arquitetura, endpoints e roadmap de features.
+
+[📖 Ver README completo](https://github.com/Pedro6Stein/Full-Stack-E-commerce/blob/main/README.md)
+  </details>
 </div>
+
+---
+
+## 🐍 Contribuições
+
+<!-- Agora apontando para o RAW do SVG, não o blob -->
+![Snake animation](https://raw.githubusercontent.com/Pedro6Stein/Pedro6Stein/main/output/github-contribution-grid-snake.svg)
+
 
 ## 📊 Estatísticas
 
