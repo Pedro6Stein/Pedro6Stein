@@ -9,7 +9,7 @@
   <h2>🎮 Portfólio 3D</h2>
   <a href="https://github.com/Pedro6Stein/Portifolio_3D">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical&cache_seconds=300"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=Portifolio_3D&theme=radical"
       alt="Portifolio_3D"
     />
   </a>
@@ -58,10 +58,10 @@
 <div class="repo-card">
   <h2>🔌 Circuitos com React</h2>
   <a href="https://github.com/Pedro6Stein/CircuitosComReact">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=CircuitosComReact&theme=radical&cache_seconds=300"
-      alt="CircuitosComReact"
-    />
+     <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro6Stein&repo=CircuitosComReact&theme=radical&cache_seconds=300&desc=Simulador%20de%20circuitos%20el%C3%A9tricos%20em%20React%20%2B%20Vite"
+    alt="CircuitosComReact"
+  />
   </a>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&cache_seconds=300" alt="JavaScript" />
